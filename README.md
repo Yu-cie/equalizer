@@ -53,6 +53,6 @@ Looking forward to learning how to use the css grid property and how to use svg 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/esther-yess)
-- Twitter - [@yourusername](https://www.twitter.com/_luciesther)
+- Frontend Mentor - [@esther-yess](https://www.frontendmentor.io/profile/esther-yess)
+- Twitter - [@_luciesther](https://www.twitter.com/_luciesther)
 
