@@ -151,8 +151,12 @@ footer p {
     font-size:26px;
     margin:auto;
     margin-left:12%;
-    line-height:150%;
-    
+    line-height:150%;  
+}
+
+footer p a:link {
+    color:#000;
+    text-decoration:none;
 }
 
 #socials svg {
